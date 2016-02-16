@@ -1,4 +1,4 @@
-# CrowdSourced_Emergency_Management_Syatem
+# CrowdSourced_Emergency_Management_System
 Recommendation system for Crowdsourced Emergency management
 
 Submitted By: Priyanka Karpe
